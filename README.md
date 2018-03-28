@@ -1,2 +1,2 @@
 # Datascience-Practice
-This repository contains the implementation of data-science algorithms using python 
+This repository contains the practice exercises using python  
